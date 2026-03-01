@@ -55,12 +55,10 @@ For a given integer, the program calculates:
 
 ## Example Run
 
+```
 ====== Number Analyzer Pro Menu ======
-
 1. Analyze a Number
-
 2. Compare 2 Numbers
-
 3. Exit
 Please make a choice:
 1
@@ -79,3 +77,4 @@ Between 10 and 50: true
 Divisible by 3: true
 Divisible by 5: true
 Divisible by both 3 and 5: true
+```
